@@ -1,1 +1,1 @@
-# Prismjs
+# Prismjs.
