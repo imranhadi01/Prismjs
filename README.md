@@ -1,2 +1,4 @@
 # Prismjs
-copy andy thing using copy button on page. 
+copy anything using copy button on page. 
+
+copy code snippets
