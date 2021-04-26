@@ -17,14 +17,13 @@ nav{
 }
 
 .logo img{
-    width: 32px;
+    width: 33px;
 }
 .contentcenter{
     font-family: 'Potta One', cursive;
 
 }
 .container{
-    /* background-color:red; */
     width: 60vw;
     margin: auto;
     padding: 30px;
